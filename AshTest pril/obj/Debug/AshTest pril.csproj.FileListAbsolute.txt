@@ -1,0 +1,17 @@
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.csproj.AssemblyReference.cache
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.csproj.SuggestedBindingRedirects.cache
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form1.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Properties.Resources.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.csproj.GenerateResource.cache
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.csproj.CoreCompileInputs.cache
+C:\KYRSACH\AshTest pril\AshTest pril\bin\Debug\AshTest pril.exe.config
+C:\KYRSACH\AshTest pril\AshTest pril\bin\Debug\AshTest pril.exe
+C:\KYRSACH\AshTest pril\AshTest pril\bin\Debug\AshTest pril.pdb
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.exe
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest pril.pdb
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form2.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form3.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form4.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form5.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form6.resources
+C:\KYRSACH\AshTest pril\AshTest pril\obj\Debug\AshTest_pril.Form7.resources
